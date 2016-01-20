@@ -1,6 +1,5 @@
 <html>
 	<head>
-		<meta charset="utf-8">
 		<title>Just Me!</title>
 	</head>
 	<body>
@@ -19,7 +18,7 @@
 			</p2>
 			<h2>Brief History</h2>
 		<p>Rockabilly music began in 1954 when Sam Phillips assembled Bill Black on bass, Scotty Moore on guitar and Elvis Presley
-		on vocals and rthym guitar. Those three created magic that would forever change music, especially the lead guitar. Scotty Moore
+		on vocals and rthym guitar. This is the general consenses. Those three created magic that would forever change music, especially the lead guitar. Scotty Moore
 		would play the tune and the bass at the same time. When he played it sounded like there were two guitars. There was no overdubbing
 		in those days, the sound was quite extrordinary to say the least. Everyone wanted to know what kind of guitar Scotty was playing.
 		They wanted to recreate the sound they were hearing over the radio. Scotty Moore preferred Gibson guitars because of their mellow
